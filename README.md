@@ -32,6 +32,10 @@
 ### Find my favourite songs here
 ![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
+[![Salika's GitHub stats](https://github-readme-stats.vercel.app/api?username=salikadave)](https://github.com/salikadave/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salikadave)](https://github.com/salikadave/github-readme-stats)
+
+
 <!--
 **salikadave/salikadave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,4 +43,5 @@ Here are some ideas to get you started:
 https://dev.to/envoy_/150-badges-for-github-pnk
 https://shields.io/
 https://github.com/alexandresanlim
+https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
 -->
