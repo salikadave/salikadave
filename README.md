@@ -1,13 +1,13 @@
 ## Woman in Tech! 👩🏻‍💻 💪🏻
-### 👋 Hi there, I am Salika Dave! 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+### 👋 Hi there, thanks for dropping by! Here's a little about myself:
+
+- 🔭 I’m currently working with *Node.js & Neo4j Graph databases.*
+- 🌱 I’m currently learning about *Chrome Extensions*.
+- 🎈 In my free time, I ❤ to teach people about code!
+- 💬 Ask me anything ranging from music to tech! I sing too! 🎤
+- 📫 How to reach me: Email me at [salikadave@gmail.com](salikadave@gmail.com) or drop me a Hi! on [LinkedIn](www.linkedin.com/in/salikadave)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Always up for a Deathmatch 🎮, FIGHT! 
+- ⚡ Fun fact: Always up for a Valorant Deathmatch 🎮, let's FIGHT 😎! 
 
 <!--
 **salikadave/salikadave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
