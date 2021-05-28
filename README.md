@@ -6,7 +6,6 @@
 - 🎈 In my free time, I ❤ to teach people about code!
 - 💬 Ask me anything ranging from music to tech! I sing too! 🎤
 - 📫 How to reach me: Email me at [salikadave@gmail.com](salikadave@gmail.com) or drop me a Hi! on [LinkedIn](www.linkedin.com/in/salikadave)
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: Always up for a Valorant Deathmatch 🎮, let's FIGHT 😎! 
 
 ### Technical Skills:
@@ -29,11 +28,8 @@
 ### My Workspace:
 ![](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-### Find my favourite songs here
-![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
 [![Salika's GitHub stats](https://github-readme-stats.vercel.app/api?username=salikadave)](https://github.com/salikadave/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salikadave)](https://github.com/salikadave/github-readme-stats)
 
 
 <!--
