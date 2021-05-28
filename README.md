@@ -22,7 +22,9 @@
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### I frequently work with:
-![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![](https://img.shields.io/badge/InVision-CE1A56?style=for-the-badge&logo=InVision&logoColor=white)
+![](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![](https://img.shields.io/badge/Netlify-323236?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### My Workspace:
