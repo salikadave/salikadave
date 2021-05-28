@@ -24,10 +24,13 @@
 ### I frequently work with:
 ![](https://img.shields.io/badge/InVision-CE1A56?style=for-the-badge&logo=InVision&logoColor=white)
 ![](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-323236?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### My Workspace:
+![](https://img.shields.io/badge/Windows-Legion_Y540-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Intel-Core_i7_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 
