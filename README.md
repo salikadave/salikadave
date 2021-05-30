@@ -1,12 +1,14 @@
+<div align="center">
+
 ## Woman in Tech! 👩🏻‍💻 💪🏻
 ### 👋 Hi there, thanks for dropping by! Here's a little about myself:
 
-- 🔭 I’m currently working with *Node.js & Neo4j Graph databases.*
-- 🌱 I’m currently learning about *Chrome Extensions*.
-- 🎈 In my free time, I ❤ to teach people about code!
-- 💬 Ask me anything ranging from music to tech! I sing too! 🎤
-- 📫 How to reach me: Email me at <a href="mailto:salikadave26@gmail.com">salikadave26@gmail.com</a> or drop me a message on [LinkedIn](https://www.linkedin.com/in/salikadave/)
-- ⚡ Fun fact: Always up for a Valorant Deathmatch 🎮, let's FIGHT 😁! 
+🔭 I’m currently working with *Node.js & Neo4j Graph databases.*\
+🌱 I’m currently learning about *Chrome Extensions*.\
+🎈 In my free time, I ❤ to teach people about code!\
+💬 Ask me anything ranging from music to tech! I sing too! 🎤
+📫 How to reach me: Email me at <a href="mailto:salikadave26@gmail.com">salikadave26@gmail.com</a> or drop me a message on [LinkedIn](https://www.linkedin.com/in/salikadave/)\
+⚡ Fun fact: Always up for a Valorant Deathmatch 🎮, let's FIGHT 😁! \
 
 ### ⚙ Technical Skills:
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,6 +47,7 @@
 
 [![Salika's GitHub stats](https://github-readme-stats.vercel.app/api?username=salikadave&count_private=true&show_icons=true&theme=nightowl)](https://github.com/salikadave/github-readme-stats)
 
+</div>
 
 <!--
 **salikadave/salikadave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
