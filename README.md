@@ -1,7 +1,7 @@
 <div align="center">
 
-## 👩 Woman in Tech! 💻
-### 👋 Hi there, thanks for dropping by! Here's a little about myself:
+#### 👩 Woman in Tech! 💻
+## 👋 Hi there, thanks for dropping by! Here's a little about myself:
   
 🔭 I’m currently working with *Node.js & Neo4j Graph databases.*
   
