@@ -36,7 +36,7 @@
 ![](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 
-[![Salika's GitHub stats](https://github-readme-stats.vercel.app/api?username=salikadave)](https://github.com/salikadave/github-readme-stats)
+[![Salika's GitHub stats](https://github-readme-stats.vercel.app/api?username=salikadave&count_private=true&show_icons=true&theme=nightowl)](https://github.com/salikadave/github-readme-stats)
 
 
 <!--
