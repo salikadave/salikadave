@@ -52,6 +52,8 @@
 -->
 
 [![Salika's GitHub stats](https://github-readme-stats.vercel.app/api?username=salikadave&count_private=true&show_icons=true&theme=nightowl)](https://github.com/salikadave/github-readme-stats)
+  
+![](https://badges.pufler.dev/visits/salikadave/salikadave)
 
 </div>
 
