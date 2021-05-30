@@ -13,7 +13,7 @@
   
 📫 How to reach me: Email me at <a href="mailto:salikadave26@gmail.com">salikadave26@gmail.com</a> or drop me a message on [LinkedIn](https://www.linkedin.com/in/salikadave/)
   
-⚡ Fun fact: Always up for a Valorant Deathmatch 🎮, let's FIGHT 😁! 
+⚡ Fun fact: Always up for a Valorant Deathmatch 🎮, let's battle it out 😁! 
 
 ### ⚙ Technical Skills:
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
