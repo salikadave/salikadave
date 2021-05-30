@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about *Chrome Extensions*.
 - 🎈 In my free time, I ❤ to teach people about code!
 - 💬 Ask me anything ranging from music to tech! I sing too! 🎤
-- 📫 How to reach me: Email me at [salikadave@gmail.com](salikadave@gmail.com) or drop me a Hi! on [LinkedIn](www.linkedin.com/in/salikadave)
+- 📫 How to reach me: Email me at [salikadave26@gmail.com](salikadave26@gmail.com) or drop me a Hi! on [LinkedIn](www.linkedin.com/in/salikadave)
 - ⚡ Fun fact: Always up for a Valorant Deathmatch 🎮, let's FIGHT 😎! 
 
 ### Technical Skills:
@@ -20,6 +20,8 @@
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![]()
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8)
+
 
 ### I frequently work with:
 ![](https://img.shields.io/badge/InVision-CE1A56?style=for-the-badge&logo=InVision&logoColor=white)
