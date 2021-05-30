@@ -1,14 +1,19 @@
 <div align="center">
 
-## Woman in Tech! 👩🏻‍💻 💪🏻
+## 👩 Woman in Tech! 💻
 ### 👋 Hi there, thanks for dropping by! Here's a little about myself:
-
-🔭 I’m currently working with *Node.js & Neo4j Graph databases.*\
-🌱 I’m currently learning about *Chrome Extensions*.\
-🎈 In my free time, I ❤ to teach people about code!\
+  
+🔭 I’m currently working with *Node.js & Neo4j Graph databases.*
+  
+🌱 I’m currently learning about *Chrome Extensions*.
+  
+🎈 In my free time, I ❤ to teach people about code!
+  
 💬 Ask me anything ranging from music to tech! I sing too! 🎤
-📫 How to reach me: Email me at <a href="mailto:salikadave26@gmail.com">salikadave26@gmail.com</a> or drop me a message on [LinkedIn](https://www.linkedin.com/in/salikadave/)\
-⚡ Fun fact: Always up for a Valorant Deathmatch 🎮, let's FIGHT 😁! \
+  
+📫 How to reach me: Email me at <a href="mailto:salikadave26@gmail.com">salikadave26@gmail.com</a> or drop me a message on [LinkedIn](https://www.linkedin.com/in/salikadave/)
+  
+⚡ Fun fact: Always up for a Valorant Deathmatch 🎮, let's FIGHT 😁! 
 
 ### ⚙ Technical Skills:
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,6 +21,7 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  
 ![](https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white)
 ![](https://img.shields.io/badge/ChartJS-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white)
 
