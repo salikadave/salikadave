@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning about *Chrome Extensions*.
 - 🎈 In my free time, I ❤ to teach people about code!
 - 💬 Ask me anything ranging from music to tech! I sing too! 🎤
-- 📫 How to reach me: Email me at [salikadave26@gmail.com](salikadave26@gmail.com) or drop me a Hi! on [LinkedIn](https://www.linkedin.com/in/salikadave/)
-- ⚡ Fun fact: Always up for a Valorant Deathmatch 🎮, let's FIGHT 😎! 
+- 📫 How to reach me: Email me at <a href="mailto:salikadave26@gmail.com">salikadave26@gmail.com</a> or drop me a message on [LinkedIn](https://www.linkedin.com/in/salikadave/)
+- ⚡ Fun fact: Always up for a Valorant Deathmatch 🎮, let's FIGHT 😁! 
 
 ### ⚙ Technical Skills:
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,6 +48,8 @@
 
 <!--
 **salikadave/salikadave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![](https://badges.pufler.dev/visits/salikadave/salikadave)
 
 Here are some ideas to get you started:
 https://dev.to/envoy_/150-badges-for-github-pnk
