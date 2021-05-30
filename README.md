@@ -53,7 +53,6 @@
 
 [![Salika's GitHub stats](https://github-readme-stats.vercel.app/api?username=salikadave&count_private=true&show_icons=true&theme=nightowl)](https://github.com/salikadave/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=salikadave&color-lightgrey)
 ![](https://badges.pufler.dev/visits/salikadave/salikadave)
 
 </div>
@@ -62,6 +61,7 @@
 **salikadave/salikadave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![](https://badges.pufler.dev/visits/salikadave/salikadave)
+![](https://komarev.com/ghpvc/?username=salikadave&color-lightgrey)
 
 Here are some ideas to get you started:
 https://dev.to/envoy_/150-badges-for-github-pnk
