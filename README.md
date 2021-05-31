@@ -55,8 +55,8 @@
 ![](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 -->
 
-  <a href="https://github.com/salikadave/github-readme-stats" ><img src="https://github-readme-stats.vercel.app/api?username=salikadave&count_private=true&show_icons=true&theme=nightowl" /></a>
-  <a href="https://git.io/streak-stats" ><img src="http://github-readme-streak-stats.herokuapp.com?user=salikadave&theme=nightowl" /></a>  
+  <a href="#" ><img src="https://github-readme-stats.vercel.app/api?username=salikadave&count_private=true&show_icons=true&theme=nightowl" /></a>
+  <a href="#" ><img src="http://github-readme-streak-stats.herokuapp.com?user=salikadave&theme=nightowl" /></a>  
 
 ![](https://badges.pufler.dev/visits/salikadave/salikadave)
 
@@ -72,6 +72,8 @@ Avatar built using [myOctocat](https://myoctocat.com/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salikadave&layout=compact)](https://github.com/salikadave/github-readme-stats)
 
 Here are some ideas to get you started:
+https://github.com/anuraghazra/github-readme-stats
+https://git.io/streak-stats
 https://dev.to/envoy_/150-badges-for-github-pnk
 https://shields.io/
 https://github.com/alexandresanlim
