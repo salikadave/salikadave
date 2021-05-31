@@ -44,6 +44,10 @@
 ![](https://img.shields.io/badge/Netlify-323236?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
+### ⚒ I like to showcase my work on:  
+<a href="https://github.com/salikadave" ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://codepen.io/salikadave" ><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+
 <!--
 ### My Workspace:
 ![](https://img.shields.io/badge/Windows-Legion_Y540-0078D6?style=for-the-badge&logo=windows&logoColor=white)
