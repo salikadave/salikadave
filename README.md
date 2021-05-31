@@ -55,12 +55,13 @@
 ![](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 -->
 
-[![Salika's GitHub stats](https://github-readme-stats.vercel.app/api?username=salikadave&count_private=true&show_icons=true&theme=nightowl)](https://github.com/salikadave/github-readme-stats)
+  <a href="https://github.com/salikadave/github-readme-stats" ><img src="https://github-readme-stats.vercel.app/api?username=salikadave&count_private=true&show_icons=true&theme=nightowl" /></a>
+  <a href="https://git.io/streak-stats" ><img src="http://github-readme-streak-stats.herokuapp.com?user=salikadave&theme=nightowl" /></a>  
 
 ![](https://badges.pufler.dev/visits/salikadave/salikadave)
 
-</div>
-
+</div>  
+  
 Avatar built using [myOctocat](https://myoctocat.com/)
 
 <!--
@@ -68,6 +69,7 @@ Avatar built using [myOctocat](https://myoctocat.com/)
 
 ![](https://badges.pufler.dev/visits/salikadave/salikadave)
 ![](https://komarev.com/ghpvc/?username=salikadave&color-lightgrey)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salikadave&layout=compact)](https://github.com/salikadave/github-readme-stats)
 
 Here are some ideas to get you started:
 https://dev.to/envoy_/150-badges-for-github-pnk
