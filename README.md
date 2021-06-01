@@ -7,6 +7,8 @@
   
 🌱 I’m currently learning about *Chrome Extensions*.
   
+📚 On and off, I am reading [Signal Analysis of Hindustani Classical Music](https://books.google.co.in/books?id=rD9RDgAAQBAJ&printsec=frontcover&dq=hindustani+classical+music&hl=en&newbks=1&newbks_redir=1&sa=X&ved=2ahUKEwiE5bfY2fXwAhVl83MBHZMRA2gQ6AEwBHoECAgQAg)
+  
 🎈 In my free time, I ❤ to teach people about code!
   
 💬 Ask me anything ranging from music to tech! I sing too! 🎤
