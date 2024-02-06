@@ -3,9 +3,9 @@
 #### 👩 Woman in Tech! 💻
 ## 👋 Hi there, thanks for dropping by! Here's a little about myself:
   
-🔭 I’m currently working with *Node.js & Neo4j Graph databases.*
+🔭 I’m currently working with *PyTorch, Node.js & Neo4j Graph databases.*
   
-🌱 I’m currently learning about *Chrome Extensions*.
+🌱 I’m currently learning about *Chrome Extensions*. Latest Project [here](https://github.com/salikadave/youtube-transcripts-summarizer-extension)
   
 📚 On and off, I am reading [Signal Analysis of Hindustani Classical Music](https://books.google.co.in/books?id=rD9RDgAAQBAJ&printsec=frontcover&dq=hindustani+classical+music&hl=en&newbks=1&newbks_redir=1&sa=X&ved=2ahUKEwiE5bfY2fXwAhVl83MBHZMRA2gQ6AEwBHoECAgQAg)
   
