@@ -13,7 +13,7 @@
   
 💬 Ask me anything ranging from music to tech! I sing too! 🎤
   
-📫 How to reach me: Email me at <a href="mailto:salikadave26@gmail.com">salikadave26@gmail.com</a> or drop me a message on [LinkedIn](https://www.linkedin.com/in/salikadave/)
+📫 How to reach me: Email me at <a href="mailto:salikadave07@gmail.com">salikadave07@gmail.com</a> or drop me a message on [LinkedIn](https://www.linkedin.com/in/salikadave/)
   
 ⚡ Fun fact: Always up for a Valorant Deathmatch 🎮, let's battle it out 😁! 
 
